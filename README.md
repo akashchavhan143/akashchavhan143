@@ -55,6 +55,8 @@
 </p>
 
 ---
+
+
 ## 📊 GitHub Statistics
 
 <div align="center" >
@@ -100,3 +102,14 @@
 </p>
 
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=AkashChavhan&show_icons=true&theme=github_dark" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashChavhan&layout=compact&theme=github_dark" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=AkashChavhan&theme=monokai&no-bg=true" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashChavhan&theme=github-compact&area=true" />
