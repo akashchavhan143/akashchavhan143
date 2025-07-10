@@ -1,14 +1,16 @@
 <!-- Banner image -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" alt="Cool Male Coder" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Akash Chavhan</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile!;Crafting+Code+with+❤️+and+Coffee!;Turning+Ideas+into+Real+Projects..." />
+</p>
 
-## 🚀 Tech Enthusiast
+
+<h1 align="center">Hi 👋, I'm Akash</h1>
 
 ### 📈 Profile Visits
 ![Visitor Count](https://komarev.com/ghpvc/?username=AkashChavhan&color=blue)
@@ -53,23 +55,35 @@
 </p>
 
 ---
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashChavhan&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashChavhan&layout=compact&theme=dark" height="150"/>
-</p>
+<div align="center" >
+  <table>
+    <tr>
+      <th>📈 GitHub Stats</th>
+      <th>💻 Top Languages</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=AkashChavhan&show_icons=true&theme=dark" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashChavhan&layout=compact&theme=dark" height="150" />
+      </td>
+    </tr>
+  </table>
+</div>
 
----
-
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashChavhan&layout=compact&langs_count=6&theme=radical" />
-</p>
-
----
-
+<!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkashChavhan&theme=darkhub&no-frame=true&column=4"/>
+
+<p align="left">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AkashChavhan&theme=monokai&no-bg=true&margin-w=20&margin-h=20&row=2&column=9" 
+    width="100%" 
+    alt="GitHub Trophies"
+  />
 </p>
+
+
+
