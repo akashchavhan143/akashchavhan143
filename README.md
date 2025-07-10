@@ -85,5 +85,18 @@
   />
 </p>
 
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashChavhan&theme=github-compact&area=true&hide_border=true" />
+</p>
+
+## 📊 Overall Contributions Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashChavhan&theme=github_dark" />
+</p>
 
 
