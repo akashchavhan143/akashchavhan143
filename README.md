@@ -33,6 +33,7 @@
 - 🤝 Collaborating with cross-functional teams to deliver responsive, secure apps
 
 ---
+
 ## 🔥 Projects
 
 ### 💻 Multi-Vendor E-Commerce Application
@@ -47,7 +48,10 @@
 - 🔗 REST APIs for transactions with Spring Boot & MySQL  
 - 📱 Responsive frontend with React & Bootstrap  
 
-- [view live](https://buyzone-ecommerce-platform.netlify.app/)
+🔗 [Live Demo](https://buyzone-ecommerce-platform.netlify.app/) | [Repository](https://github.com/akashchavhan143/multi-vendor-ecommerce)
+
+---
+
 ### 💻 Employee Management System
 <p align="">
   <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring-boot" />
@@ -57,12 +61,51 @@
 - CRUD-based employee management system  
 - Responsive UI + REST API backend  
 
-### Personal Portfolio Application
-<p align=""> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" /> </p>
-
-- 🌟 [Personal Portfolio Application](https://master-akash-chavhan-portfolio.netlify.app/) – Built a responsive portfolio website using HTML, CSS, JS, and React.js to showcase my skills and projects.
+🔗 [Live Demo](https://your-ems-live-link.com) | [Repository](https://github.com/akashchavhan143/employee-management-system)
 
 ---
+
+### 💻 Personal Portfolio Application
+<p align="">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+</p>
+
+- 🌟 Built a responsive portfolio website using HTML, CSS, JS, and React.js to showcase my skills and projects  
+
+🔗 [Live Demo](https://master-akash-chavhan-portfolio.netlify.app/) | [Repository](https://github.com/akashchavhan143/portfolio)
+
+---
+### 🌍 GeoLocation Verifier of Images
+<p align="">
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign" />
+</p>
+
+- 📷 Extracts and verifies **image metadata (EXIF)** for geolocation  
+- 🌍 Cross-checks location info on maps to confirm authenticity  
+- 🖥️ Built UI with **React + Ant Design** for clean and responsive design  
+
+🔗 [Live Demo](https://your-geo-verifier-live-link.com) | [Repository](https://github.com/akashchavhan143/geolocation-verifier)
+
+---
+
+### 📝 Job Application Tracker + Account Management + Blog Platform
+<p align="">
+  <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+</p>
+
+- 📌 Track job applications with CRUD operations  
+- 👥 Account management with authentication & authorization  
+- ✍ Blog platform for sharing and managing posts  
+- 🔗 Integrated REST APIs with secure JWT authentication  
+
+🔗 [Live Demo](https://your-job-tracker-live-link.com) | [Repository](https://github.com/akashchavhan143/job-application-tracker)
 ## 🎓 Education
 
 🎓 **Bachelor of Engineering (Mechanical)**  
