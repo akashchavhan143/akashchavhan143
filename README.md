@@ -13,9 +13,9 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
 ### 📈 Profile Visits
-![Visitor Count](https://komarev.com/ghpvc/?username=AkashChavhan&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=akashchavhan143&color=blue)
 
-<!-- ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=AkashChavhan.AkashChavhan) -->
+<!-- ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=akashchavhan143.akashchavhan143) -->
 
 ---
 ## 💼 Experience
@@ -101,9 +101,11 @@ Sant Gadge Baba Amravati University | 2019 - 2023 | CGPA: 8.5/10
 ## 🤝 Connect with me
 
 <p align=""> 
-  <a href="https://www.linkedin.com/in/akashchavhan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://github.com/AkashChavhan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true" alt="GitHub" /> </a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akash-chavhan280516" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true" alt="LinkedIn" /> </a> &nbsp;&nbsp; 
+  <a href="https://github.com/akashchavhan143" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true" alt="GitHub" /> </a> &nbsp;&nbsp;
   <a href="mailto:akashchavhan512786@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&rounded=true" alt="Gmail" /> </a> &nbsp;&nbsp; 
-  <a href="https://www.facebook.com/akashchavhan" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&rounded=true" alt="Facebook" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/akashchavhan" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&rounded=true" alt="Instagram" /> </a>
+  <a href="https://www.facebook.com/akash.r.chavhan.5" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&rounded=true" alt="Facebook" /> </a> &nbsp;&nbsp; 
+  <a href="https://www.instagram.com/akashchavhan_16/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&rounded=true" alt="Instagram" /> </a>
 </p>
 
 
@@ -117,10 +119,10 @@ Sant Gadge Baba Amravati University | 2019 - 2023 | CGPA: 8.5/10
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AkashChavhan&show_icons=true&theme=dark" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=akashchavhan143&show_icons=true&theme=dark" height="150" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashChavhan&layout=compact&theme=dark" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashchavhan143&layout=compact&theme=dark" height="150" />
       </td>
     </tr>
   </table>
@@ -131,7 +133,7 @@ Sant Gadge Baba Amravati University | 2019 - 2023 | CGPA: 8.5/10
 
 <p align="left">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=AkashChavhan&theme=monokai&no-bg=true&margin-w=20&margin-h=20&row=2&column=9" 
+    src="https://github-profile-trophy.vercel.app/?username=akashchavhan143&theme=monokai&no-bg=true&margin-w=20&margin-h=20&row=2&column=9" 
     width="100%" 
     alt="GitHub Trophies"
   />
@@ -142,12 +144,12 @@ Sant Gadge Baba Amravati University | 2019 - 2023 | CGPA: 8.5/10
 ## 📅 Contribution Graph
 
 <p align="">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashChavhan&theme=github-compact&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashchavhan143&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 ## 📊 Overall Contributions Summary
 
 <p align="">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashChavhan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashchavhan143&theme=github_dark" />
 </p>
 
