@@ -42,17 +42,25 @@
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
 </p>
+
 - 🛒 Multi-vendor platform with Admin, Seller, Delivery, Customer roles  
 - 🔗 REST APIs for transactions with Spring Boot & MySQL  
 - 📱 Responsive frontend with React & Bootstrap  
 
+- [view live](https://buyzone-ecommerce-platform.netlify.app/)
 ### 💻 Employee Management System
 <p align="">
   <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring-boot" />
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
 </p>
+
 - CRUD-based employee management system  
 - Responsive UI + REST API backend  
+
+### Personal Portfolio Application
+<p align=""> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" /> </p>
+
+- 🌟 [Personal Portfolio Application](https://master-akash-chavhan-portfolio.netlify.app/) – Built a responsive portfolio website using HTML, CSS, JS, and React.js to showcase my skills and projects.
 
 ---
 ## 🎓 Education
