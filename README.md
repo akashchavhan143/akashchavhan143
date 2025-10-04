@@ -15,51 +15,93 @@
 ### 📈 Profile Visits
 ![Visitor Count](https://komarev.com/ghpvc/?username=AkashChavhan&color=blue)
 
+<!-- ![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=AkashChavhan.AkashChavhan) -->
+
+---
+## 💼 Experience
+
+<p align="">
+  <img src="https://img.shields.io/badge/Teople%20Technologies-FF6F61?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+**Full-Stack Developer** | Teople Technologies, Pune  
+🗓 Oct 2024 - Present
+
+- ⚡ Developing web applications using Spring Boot, React, MySQL, REST APIs  
+- 🔒 Implementing role-based authentication & CRUD operations  
+- 🛠 Optimizing database & application performance  
+- 🤝 Collaborating with cross-functional teams to deliver responsive, secure apps
+
+---
+## 🔥 Projects
+
+### 💻 Multi-Vendor E-Commerce Application
+<p align="">
+  <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+</p>
+- 🛒 Multi-vendor platform with Admin, Seller, Delivery, Customer roles  
+- 🔗 REST APIs for transactions with Spring Boot & MySQL  
+- 📱 Responsive frontend with React & Bootstrap  
+
+### 💻 Employee Management System
+<p align="">
+  <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+</p>
+- CRUD-based employee management system  
+- Responsive UI + REST API backend  
+
+---
+## 🎓 Education
+
+🎓 **Bachelor of Engineering (Mechanical)**  
+Sant Gadge Baba Amravati University | 2019 - 2023 | CGPA: 8.5/10
+
+📘 **HSC** | Maharashtra State Board | 2019 | 68.3%  
+📗 **SSC** | Maharashtra State Board | 2017 | 79.2%
+
 ---
 
-## 🔥 Projects
-- ✨ I'm currently working on `BuyZone - Multi Vendor E-Commerce Platform`
-- 💬 Ask me about `Java, Spring Boot, React, SQL, Web Dev`
-- ☕ Fun fact: Turning caffeine into clean code ☕
+## 🛠 Skills & Tools
 
-📫 How to reach me: [akashchavhan512786@gmail.com](mailto:akashchavhan512786@gmail.com)
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring-boot" />
+  <img src="https://img.shields.io/badge/Hibernate-red?style=for-the-badge&logo=hibernate" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+</p>
 
 ---
 
 ## 🤝 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/akashchavhan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/AkashChavhan" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:akashchavhan512786@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+
+<p align=""> 
+  <a href="https://www.linkedin.com/in/akashchavhan" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true" alt="LinkedIn" /> </a> &nbsp;&nbsp; <a href="https://github.com/AkashChavhan" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&rounded=true" alt="GitHub" /> </a> &nbsp;&nbsp;
+  <a href="mailto:akashchavhan512786@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&rounded=true" alt="Gmail" /> </a> &nbsp;&nbsp; 
+  <a href="https://www.facebook.com/akashchavhan" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&rounded=true" alt="Facebook" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/akashchavhan" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&rounded=true" alt="Instagram" /> </a>
 </p>
-
----
-
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/SpringBoot-darkgreen?style=flat-square&logo=spring-boot" />
-  <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visual-studio-code" />
-</p>
-
----
 
 
 ## 📊 GitHub Statistics
 
-<div align="center" >
+<div align="" >
   <table>
     <tr>
       <th>📈 GitHub Stats</th>
@@ -91,13 +133,13 @@
 
 ## 📅 Contribution Graph
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashChavhan&theme=github-compact&area=true&hide_border=true" />
 </p>
 
 ## 📊 Overall Contributions Summary
 
-<p align="center">
+<p align="">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashChavhan&theme=github_dark" />
 </p>
 
