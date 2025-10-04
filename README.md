@@ -153,10 +153,17 @@ Sant Gadge Baba Amravati University | 2019 - 2023 | CGPA: 8.5/10
 
 ## 📄 Resume
 <p align="center">
-  <a href="https://github.com/akashchavhan143/akashchavhan143/raw/main//AkashChavhan0510.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Resume" />
+  <!-- View Resume -->
+  <a href="https://github.com/akashchavhan143/akashchavhan143/blob/main/AkashChavhan0510.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-Blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Resume" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Download Resume -->
+  <a href="https://github.com/akashchavhan143/akashchavhan143/raw/main/AkashChavhan0510.pdf" download target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Resume" />
   </a>
 </p>
+
 
 
 ## 📊 GitHub Statistics
